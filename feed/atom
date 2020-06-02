@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:g-custom="http://base.google.com/cns/1.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <title>Jeff Computers Blog</title>
+  <link rel="alternate" href="http://www.jeffcomputers.com" />
+  <subtitle>Learn more about what’s new and important at Jeff Computers of Manchester, MO.</subtitle>
+  <logo>https://cdn.websites.hibu.com/8b7ed37d078a413cba5eb6e567f31912/dms3rep/multi/Untitled-8.jpg</logo>
+  <entry>
+    <title>Data Recovery for Microsoft Surface Book, Surface 2, Surface Pro 1 2 3 4 and More!</title>
+    <link rel="alternate" href="http://www.jeffcomputers.com/data-recovery-for-microsoft-surface-book-surface-2-surface-pro-1-2-3-4-and-more" />
+    <author>
+      <name />
+    </author>
+    <updated>2019-02-14T18:10:39Z</updated>
+    <published>2019-02-14T18:10:39Z</published>
+    <summary type="text" />
+    <g-custom:tags type="string" />
+  </entry>
+  <entry>
+    <title>Emerging trends to small businesses in 2018  </title>
+    <link rel="alternate" href="http://www.jeffcomputers.com/emerging-trends-to-small-businesses-in-2018" />
+    <author>
+      <name>null null</name>
+      <email>7016602538</email>
+    </author>
+    <updated>2018-08-29T20:49:39Z</updated>
+    <published>2018-08-29T20:49:39Z</published>
+    <summary type="text" />
+    <g-custom:tags type="string" />
+  </entry>
+  <entry>
+    <title>Slow Computer</title>
+    <link rel="alternate" href="http://www.jeffcomputers.com/slow-computer" />
+    <author>
+      <name>null null</name>
+      <email>7016602538</email>
+    </author>
+    <updated>2018-08-27T16:19:49Z</updated>
+    <published>2018-08-27T16:19:49Z</published>
+    <summary type="text" />
+    <g-custom:tags type="string" />
+    <media:content medium="image" url="https://cdn.websites.hibu.com/8b7ed37d078a413cba5eb6e567f31912/dms3rep/multi/laptop-1483974_1920.jpg" />
+  </entry>
+  <entry>
+    <title>Liquid Spilled on Your Laptop?</title>
+    <link rel="alternate" href="http://www.jeffcomputers.com/blog/3327481/Liquid-Spilled-on-Your-Laptop/10988791" />
+    <author>
+      <name />
+    </author>
+    <updated>2018-08-27T00:00:00Z</updated>
+    <published>2018-08-27T00:00:00Z</published>
+    <summary type="text">Did you spill liquid on your laptop?  Many people have spilled wine, water, soda or other liquids and we are here to help.
+
+Save your laptop from a spill
+1. Turn it upside down
+2. Remove the power cords
+3. Remove the battery. 
+4. Dry it with towels but leave it upside down while drying.
+5. Then bring it to us ASAP.
+
+Do NOT try and turn it on. That may damage the electronics.</summary>
+    <g-custom:tags type="string" />
+    <media:content medium="image" url="https://cdn.websites.hibu.com/8b7ed37d078a413cba5eb6e567f31912/dms3rep/multi/wine-619452_960_720.jpg" />
+  </entry>
+  <entry>
+    <title>Viruses Popping Up</title>
+    <link rel="alternate" href="http://www.jeffcomputers.com/blog/3327481/Viruses-Popping-Up-or-Slow-Computer/21697442" />
+    <author>
+      <name />
+    </author>
+    <updated>2018-08-26T00:00:00Z</updated>
+    <published>2018-08-26T00:00:00Z</published>
+    <summary type="text">If you have a virus on your screen or your computer is talking to you, do not click on anything. Also, do NOT call the number, they will scam you and steal your money / identity.
+
+We can help you remove the virus and make the computer work again.
+
+Some of the things we will do for you:
+1. Terminate the running virus / website
+2. Run scans to clean the computer
+3. Remove bad programs from the computer (remote login software...)
+4. Optimize the running software
+
+To prevent future we have a few options:
+1. We can also provide nightly maintenance and phone support with our Managed IT plans for a monthly fee
+2. We install security software and you can pay yearly
+3. You can call us if you have questions / concerns. We are here to help!</summary>
+    <g-custom:tags type="string" />
+    <media:content medium="image" url="https://cdn.websites.hibu.com/8b7ed37d078a413cba5eb6e567f31912/dms3rep/multi/hacker-1872291_1920.jpg" />
+  </entry>
+  <entry>
+    <title>Easy Question and Remote Computer Repair</title>
+    <link rel="alternate" href="http://www.jeffcomputers.com/blog/3327481/Easy-Question-and-Remote-Computer-Repair/2169745" />
+    <author>
+      <name />
+    </author>
+    <updated>2017-09-15T16:11:00Z</updated>
+    <published>2017-09-15T16:11:00Z</published>
+    <summary type="text">Do you have a quick question that you would like us to help you with? We can remotely help you through the internet. We have monthly plans where you can get free help or you can pay for one time service.</summary>
+    <g-custom:tags type="string" />
+    <media:content medium="image" url="https://cdn.websites.hibu.com/8b7ed37d078a413cba5eb6e567f31912/dms3rep/multi/artificial-intelligence-3382507_1920.jpg" />
+  </entry>
+</feed>

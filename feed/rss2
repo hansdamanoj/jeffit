@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:g-custom="http://base.google.com/cns/1.0" xmlns:media="http://search.yahoo.com/mrss/" version="2.0">
+  <channel>
+    <title>Jeff Computers Blog</title>
+    <link>http://www.jeffcomputers.com</link>
+    <description>Learn more about what’s new and important at Jeff Computers of Manchester, MO.</description>
+    <atom:link href="http://www.jeffcomputers.com/feed/rss2" type="application/rss+xml" rel="self" />
+    <image>
+      <title>Jeff Computers Blog</title>
+      <url>https://cdn.websites.hibu.com/8b7ed37d078a413cba5eb6e567f31912/dms3rep/multi/Untitled-8.jpg</url>
+      <link>http://www.jeffcomputers.com</link>
+    </image>
+    <item>
+      <title>Data Recovery for Microsoft Surface Book, Surface 2, Surface Pro 1 2 3 4 and More!</title>
+      <link>http://www.jeffcomputers.com/data-recovery-for-microsoft-surface-book-surface-2-surface-pro-1-2-3-4-and-more</link>
+      <description />
+      <pubDate>Thu, 14 Feb 2019 18:10:39 GMT</pubDate>
+      <guid>http://www.jeffcomputers.com/data-recovery-for-microsoft-surface-book-surface-2-surface-pro-1-2-3-4-and-more</guid>
+      <g-custom:tags type="string" />
+    </item>
+    <item>
+      <title>Emerging trends to small businesses in 2018  </title>
+      <link>http://www.jeffcomputers.com/emerging-trends-to-small-businesses-in-2018</link>
+      <description />
+      <pubDate>Wed, 29 Aug 2018 20:49:39 GMT</pubDate>
+      <author>7016602538</author>
+      <guid>http://www.jeffcomputers.com/emerging-trends-to-small-businesses-in-2018</guid>
+      <g-custom:tags type="string" />
+    </item>
+    <item>
+      <title>Slow Computer</title>
+      <link>http://www.jeffcomputers.com/slow-computer</link>
+      <description />
+      <pubDate>Mon, 27 Aug 2018 16:19:49 GMT</pubDate>
+      <author>7016602538</author>
+      <guid>http://www.jeffcomputers.com/slow-computer</guid>
+      <g-custom:tags type="string" />
+      <media:content medium="image" url="https://cdn.websites.hibu.com/8b7ed37d078a413cba5eb6e567f31912/dms3rep/multi/laptop-1483974_1920.jpg" />
+    </item>
+    <item>
+      <title>Liquid Spilled on Your Laptop?</title>
+      <link>http://www.jeffcomputers.com/blog/3327481/Liquid-Spilled-on-Your-Laptop/10988791</link>
+      <description>Did you spill liquid on your laptop?  Many people have spilled wine, water, soda or other liquids and we are here to help.
+
+Save your laptop from a spill
+1. Turn it upside down
+2. Remove the power cords
+3. Remove the battery. 
+4. Dry it with towels but leave it upside down while drying.
+5. Then bring it to us ASAP.
+
+Do NOT try and turn it on. That may damage the electronics.</description>
+      <pubDate>Mon, 27 Aug 2018 00:00:00 GMT</pubDate>
+      <guid>http://www.jeffcomputers.com/blog/3327481/Liquid-Spilled-on-Your-Laptop/10988791</guid>
+      <g-custom:tags type="string" />
+      <media:content medium="image" url="https://cdn.websites.hibu.com/8b7ed37d078a413cba5eb6e567f31912/dms3rep/multi/wine-619452_960_720.jpg" />
+    </item>
+    <item>
+      <title>Viruses Popping Up</title>
+      <link>http://www.jeffcomputers.com/blog/3327481/Viruses-Popping-Up-or-Slow-Computer/21697442</link>
+      <description>If you have a virus on your screen or your computer is talking to you, do not click on anything. Also, do NOT call the number, they will scam you and steal your money / identity.
+
+We can help you remove the virus and make the computer work again.
+
+Some of the things we will do for you:
+1. Terminate the running virus / website
+2. Run scans to clean the computer
+3. Remove bad programs from the computer (remote login software...)
+4. Optimize the running software
+
+To prevent future we have a few options:
+1. We can also provide nightly maintenance and phone support with our Managed IT plans for a monthly fee
+2. We install security software and you can pay yearly
+3. You can call us if you have questions / concerns. We are here to help!</description>
+      <pubDate>Sun, 26 Aug 2018 00:00:00 GMT</pubDate>
+      <guid>http://www.jeffcomputers.com/blog/3327481/Viruses-Popping-Up-or-Slow-Computer/21697442</guid>
+      <g-custom:tags type="string" />
+      <media:content medium="image" url="https://cdn.websites.hibu.com/8b7ed37d078a413cba5eb6e567f31912/dms3rep/multi/hacker-1872291_1920.jpg" />
+    </item>
+    <item>
+      <title>Easy Question and Remote Computer Repair</title>
+      <link>http://www.jeffcomputers.com/blog/3327481/Easy-Question-and-Remote-Computer-Repair/2169745</link>
+      <description>Do you have a quick question that you would like us to help you with? We can remotely help you through the internet. We have monthly plans where you can get free help or you can pay for one time service.</description>
+      <pubDate>Fri, 15 Sep 2017 16:11:00 GMT</pubDate>
+      <guid>http://www.jeffcomputers.com/blog/3327481/Easy-Question-and-Remote-Computer-Repair/2169745</guid>
+      <g-custom:tags type="string" />
+      <media:content medium="image" url="https://cdn.websites.hibu.com/8b7ed37d078a413cba5eb6e567f31912/dms3rep/multi/artificial-intelligence-3382507_1920.jpg" />
+    </item>
+  </channel>
+</rss>
